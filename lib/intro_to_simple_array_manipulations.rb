@@ -1,9 +1,9 @@
 def using_push(array, element)
-  updated_array = array.push(element)
+  array.push(element)
 end
 
 def using_unshift(array, string)
-  updated_array = array.unshift(string)
+  array.unshift(string)
 end
 
 def using_pop(array)
