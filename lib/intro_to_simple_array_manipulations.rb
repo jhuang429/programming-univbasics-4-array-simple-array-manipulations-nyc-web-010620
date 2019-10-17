@@ -26,7 +26,7 @@ def using_concat(arr1, arr2)
   array.concat(arr2)
 end
 
-def using_insert(arr,element)
+def using_insert(arr, element)
   array.insert(element)
 end
 
@@ -38,7 +38,7 @@ def using_flatten(arr)
   arr.flatten()
 end
 
-def using_delete(arr,string)
+def using_delete(arr, string)
   arr.delete(string)
 end
 
